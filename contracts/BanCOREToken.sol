@@ -7,7 +7,7 @@
 https://BANCORE.PRO
 https://t.me/BANCORE
 
-//30% Deflation//
+//3% Deflation//
 **/
 
 pragma solidity ^0.6.12;
